@@ -1,0 +1,12 @@
+{
+	"name": "kotygor/opencart-ocmod-fix",
+	"description": "Fixed ocmod controller. Full info in ocmod.log. Repace original Opencart file",
+	"version": "v0.0.1",
+	"type": "opencart-extension",
+	"extra": {
+		"src-dir": "upload",
+		"mappings": [
+			"admin/controller/marketplace/modification.php"
+		]
+	}
+}
