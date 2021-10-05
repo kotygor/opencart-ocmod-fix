@@ -7,6 +7,9 @@
 		"src-dir": "upload",
 		"mappings": [
 			"admin/controller/marketplace/modification.php"
-		]
+		],
+		"installers":{
+			"php": "install.php"
+		}
 	}
 }
