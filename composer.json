@@ -5,7 +5,15 @@
 	"extra": {
 		"src-dir": "upload",
 		"mappings": [
-			"admin/controller/marketplace/modification.php"
+			"admin/controller/marketplace/modification.php",
+			"admin/model/setting/modification.php",
+			"admin/view/javascript/codemirror/lib/codemirror.css",
+			"admin/view/javascript/codemirror/lib/codemirror.js",
+			"admin/view/javascript/codemirror/lib/formatting.js",
+			"admin/view/javascript/codemirror/lib/xml.js",
+			"admin/view/javascript/codemirror/theme/xq-dark.css",
+			"admin/view/template/marketplace/modification.twig",
+			"admin/view/template/marketplace/modification_form.twig"
 		],
 		"installers":{
 			"php": "install.php"
